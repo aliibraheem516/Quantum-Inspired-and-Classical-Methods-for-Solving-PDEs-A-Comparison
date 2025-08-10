@@ -1,0 +1,2 @@
+# Quantum-Inspired-and-Classical-Methods-for-Solving-PDEs-A-Comparison
+This repository implements and compares quantum-inspired and classical solvers for solving the 1D viscous Burgers' equation. The main objective of the project is to explore the effectiveness of quantum tensor networks (QTN) for compressing and solving partial differential equations (PDEs), specifically in the context of fluid dynamics.
